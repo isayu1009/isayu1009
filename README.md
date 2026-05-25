@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Julia 👋
 
-<!--
-**isayu1009/isayu1009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🇫🇷 Based in France
+- 📊 Aspiring Data Analyst
+- 📚 Learning Python, Power BI, and Machine Learning
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- Pandas
+- Streamlit
+- Power BI
+- SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- Wildfire prediction dashboard
+- Machine learning with Random Forest & XGBoost
+- Data analyst portfolio
+
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/julia-aumont-0a7440140/
