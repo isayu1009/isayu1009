@@ -18,6 +18,6 @@
 - Data analyst portfolio
 
 ## Connect With Me
-- LinkedIn: https://www.linkedin.com/in/julia-aumont-0a7440140/
-- 
+- <a ref="https://www.linkedin.com/in/julia-aumont-0a7440140/">LinkedIn:</a>
+
 ## Curently looking for a data analyst position
