@@ -20,5 +20,5 @@
 ## Connect With Me
 [LinkedIn](https://www.linkedin.com/in/julia-aumont-0a7440140/)
 
-## Curently looking for a data position (any)
-## OPEN TO WORK / PLEASE FEEL FREE TO CONTACT ME
+## Curently looking for a data position 
+## OPEN TO WORK / Please feel free to contact me
