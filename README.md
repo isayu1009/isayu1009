@@ -2,7 +2,7 @@
 
 ## About Me
 - 🇫🇷 Based in France
-- 📊 Aspiring Data Analyst
+- 📊 Aspiring Data Analyst (Data engineer apprenti)
 - 📚 Learning Python, Power BI, and Machine Learning
 
 ## Skills
@@ -20,4 +20,5 @@
 ## Connect With Me
 [LinkedIn](https://www.linkedin.com/in/julia-aumont-0a7440140/)
 
-## Curently looking for a data analyst position
+## Curently looking for a data position (any)
+## OPEN TO WORK / PLEASE FEEL FREE TO CONTACT ME
