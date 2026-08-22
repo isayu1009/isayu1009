@@ -2,7 +2,7 @@
 
 ## About Me
 - 🇫🇷 Based in France
-- Former Optometrist turned Export Assistant & Data Analyst 
+- 👓 Former Optometrist turned Export Assistant & Data Analyst 
 - 📊 Aspiring Data Analyst (Data engineer apprenti)
 - 📚 Learning Python, Power BI, and Machine Learning
 
